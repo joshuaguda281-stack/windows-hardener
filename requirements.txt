@@ -1,0 +1,10 @@
+# Windows Hardener Requirements
+# This is a PowerShell script - no Python dependencies required!
+# Run directly in PowerShell with Administrator privileges
+
+# For execution on Windows:
+# 1. Open PowerShell as Administrator
+# 2. Set execution policy: Set-ExecutionPolicy RemoteSigned
+# 3. Run: .\windows_hardening.ps1
+
+# No external modules required - uses built-in Windows cmdlets only!

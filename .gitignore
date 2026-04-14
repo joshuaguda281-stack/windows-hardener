@@ -1,0 +1,18 @@
+# PowerShell
+*.ps1.bak
+*.ps1.old
+
+# Reports
+*.json
+windows_hardening_report_*.json
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
